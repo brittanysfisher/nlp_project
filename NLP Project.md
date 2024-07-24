@@ -357,7 +357,7 @@ Below are the results from the part-of-speech tagger.
 
 7. At Fault by Kate Chopin
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | she   | PRP  | 598   |
 | She   | PRP  | 162   |
@@ -368,7 +368,7 @@ Below are the results from the part-of-speech tagger.
 | Her   | PRP$ | 22    |
 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | his   | PRP$ | 586   |
 | Him   | PRP  | 2     |
@@ -381,7 +381,7 @@ Below are the results from the part-of-speech tagger.
 
 8. Down the Slope by James Otis
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | she   | PRP  | 18    |
 | She   | PRP  | 1     |
@@ -389,7 +389,7 @@ Below are the results from the part-of-speech tagger.
 | her   | PRP  | 1     |
 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | his   | PRP$ | 538   |
 | He    | PRP  | 88    |
@@ -401,7 +401,7 @@ Below are the results from the part-of-speech tagger.
 
 9. Fantasy: A Novel by Matilde Serao
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | she   | PRP  | 968   |
 | She   | PRP  | 426   |
@@ -412,7 +412,7 @@ Below are the results from the part-of-speech tagger.
 | Her   | PRP$ | 55    |
 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | his   | PRP$ | 810   |
 | Him   | PRP  | 3     |
@@ -424,7 +424,7 @@ Below are the results from the part-of-speech tagger.
 
 10. Moby Dick by Herman Melville
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | she   | PRP  | 100   |
 | She   | PRP  | 14    |
@@ -433,7 +433,7 @@ Below are the results from the part-of-speech tagger.
 | Her   | PRP$ | 3     |
 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | his   | PRP$ | 2457  |
 | Him   | PRP  | 5     |
@@ -446,7 +446,7 @@ Below are the results from the part-of-speech tagger.
 
 11. Skyrider by B.M Bower 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | she   | PRP  | 441   |
 | She   | PRP  | 184   |
@@ -457,7 +457,7 @@ Below are the results from the part-of-speech tagger.
 | Her   | PRP$ | 12    |
 
 
-| chunk | pos  | count |
+| word  | pos  | count |
 |-------|------|-------|
 | his   | PRP$ | 826   |
 | Him   | PRP  | 1     |
