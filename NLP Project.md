@@ -224,267 +224,248 @@ Below are the results from the part-of-speech tagger.
 | Her  | PRP$ | 13    |
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|1620 |
-|He  |PRP |549  |
-|His |PRP$|46   |
-|him |PRP |1136 |
-|he  |PRP |2639 |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 1620  |
+| He   | PRP  | 549   |
+| His  | PRP$ | 46    |
+| him  | PRP  | 1136  |
+| he   | PRP  | 2639  |
+
 
 
 2. Frankenstein by Mary Shelley
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |181  |
-|She |PRP |68   |
-|her |PRP$|323  |
-|hers|NNS |2    |
-|her |PRP |33   |
-|Her |PRP$|15   |
-|hers|VBZ |1    |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 181   |
+| She  | PRP  | 68    |
+| her  | PRP$ | 323   |
+| hers | NNS  | 2     |
+| her  | PRP  | 33    |
+| Her  | PRP$ | 15    |
+| hers | VBZ  | 1     |
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|500  |
-|He  |PRP |127  |
-|His |PRP$|33   |
-|him |PRP |220  |
-|he  |PRP |471  |
-+----+----+-----+
+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 500   |
+| He   | PRP  | 127   |
+| His  | PRP$ | 33    |
+| him  | PRP  | 220   |
+| he   | PRP  | 471   |
+
 
 
 3. Little Women by Louisa M. Alcott
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |1958 |
-|She |PRP |294  |
-|her |PRP$|2837 |
-|hers|PRP |2    |
-|hers|NNS |11   |
-|her |PRP |323  |
-|Her |PRP$|51   |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 1958  |
+| She  | PRP  | 294   |
+| her  | PRP$ | 2837  |
+| hers | PRP  | 2     |
+| hers | NNS  | 11    |
+| her  | PRP  | 323   |
+| Her  | PRP$ | 51    |
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|1095 |
-|Him |PRP |3    |
-|He  |PRP |211  |
-|His |PRP$|20   |
-|him |PRP |735  |
-|he  |PRP |1262 |
-+----+----+-----+
+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 1095  |
+| Him  | PRP  | 3     |
+| He   | PRP  | 211   |
+| His  | PRP$ | 20    |
+| him  | PRP  | 735   |
+| he   | PRP  | 1262  |
+
 
 
 4. Wuthering Heights by Emily Brontë
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |1079 |
-|She |PRP |154  |
-|her |PRP$|1300 |
-|hers|PRP |1    |
-|hers|NNS |13   |
-|her |PRP |181  |
-|Her |PRP$|34   |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 1079  |
+| She  | PRP  | 154   |
+| her  | PRP$ | 1300  |
+| hers | PRP  | 1     |
+| hers | NNS  | 13    |
+| her  | PRP  | 181   |
+| Her  | PRP$ | 34    |
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|1373 |
-|Him |PRP |1    |
-|He  |PRP |317  |
-|His |PRP$|37   |
-|him |PRP |857  |
-|he  |PRP |1550 |
-+----+----+-----+
+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 1373  |
+| Him  | PRP  | 1     |
+| He   | PRP  | 317   |
+| His  | PRP$ | 37    |
+| him  | PRP  | 857   |
+| he   | PRP  | 1550  |
+
 
 
 5. Alice's Adventures in Wonderland by Lewis Carroll
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |498  |
-|She |PRP |33   |
-|her |PRP$|215  |
-|hers|PRP |2    |
-|hers|NNS |1    |
-|her |PRP |28   |
-|Her |PRP$|3    |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 498   |
+| She  | PRP  | 33    |
+| her  | PRP$ | 215   |
+| hers | PRP  | 2     |
+| hers | NNS  | 1     |
+| her  | PRP  | 28    |
+| Her  | PRP$ | 3     |
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|93   |
-|Him |PRP |1    |
-|He  |PRP |15   |
-|His |PRP$|1    |
-|him |PRP |37   |
-|he  |PRP |94   |
-+----+----+-----+
+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 93    |
+| Him  | PRP  | 1     |
+| He   | PRP  | 15    |
+| His  | PRP$ | 1     |
+| him  | PRP  | 37    |
+| he   | PRP  | 94    |
+
 
 
 6. The Castle of Otranto by Horace Walpole
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |241  |
-|She |PRP |34   |
-|her |PRP$|327  |
-|her |PRP |57   |
-|Her |PRP$|11   |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 241   |
+| She  | PRP  | 34    |
+| her  | PRP$ | 327   |
+| her  | PRP  | 57    |
+| Her  | PRP$ | 11    |
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|his |PRP$|475  |
-|He  |PRP |76   |
-|His |PRP$|12   |
-|him |PRP |186  |
-|he  |PRP |431  |
-+----+----+-----+
+
+| word | pos  | count |
+|------|------|-------|
+| his  | PRP$ | 475   |
+| He   | PRP  | 76    |
+| His  | PRP$ | 12    |
+| him  | PRP  | 186   |
+| he   | PRP  | 431   |
+
 
 
 7. At Fault by Kate Chopin
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|she  |PRP |598  |
-|She  |PRP |162  |
-|her  |PRP$|800  |
-|Hers |NNP |2    |
-|hers |NNS |6    |
-|her  |PRP |138  |
-|Her  |PRP$|22   |
-+-----+----+-----+
+| chunk | pos  | count |
+|-------|------|-------|
+| she   | PRP  | 598   |
+| She   | PRP  | 162   |
+| her   | PRP$ | 800   |
+| Hers  | NNP  | 2     |
+| hers  | NNS  | 6     |
+| her   | PRP  | 138   |
+| Her   | PRP$ | 22    |
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|his  |PRP$|586  |
-|Him  |PRP |2    |
-|He   |PRP |180  |
-|His  |PRP$|27   |
-|him  |PRP |343  |
-|he   |PRP |711  |
-+-----+----+-----+
+
+| chunk | pos  | count |
+|-------|------|-------|
+| his   | PRP$ | 586   |
+| Him   | PRP  | 2     |
+| He    | PRP  | 180   |
+| His   | PRP$ | 27    |
+| him   | PRP  | 343   |
+| he    | PRP  | 711   |
+
 
 
 8. Down the Slope by James Otis
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|she  |PRP |18   |
-|She  |PRP |1    |
-|her  |PRP$|28   |
-|her  |PRP |1    |
-+-----+----+-----+
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|his  |PRP$|538  |
-|He   |PRP |88   |
-|His  |PRP$|11   |
-|him  |PRP |362  |
-|he   |PRP |909  |
-+-----+----+-----+
+| chunk | pos  | count |
+|-------|------|-------|
+| she   | PRP  | 18    |
+| She   | PRP  | 1     |
+| her   | PRP$ | 28    |
+| her   | PRP  | 1     |
+
+
+| chunk | pos  | count |
+|-------|------|-------|
+| his   | PRP$ | 538   |
+| He    | PRP  | 88    |
+| His   | PRP$ | 11    |
+| him   | PRP  | 362   |
+| he    | PRP  | 909   |
+
 
 
 9. Fantasy: A Novel by Matilde Serao
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|she  |PRP |968  |
-|She  |PRP |426  |
-|her  |PRP$|1618 |
-|hers |PRP |4    |
-|hers |NNS |9    |
-|her  |PRP |218  |
-|Her  |PRP$|55   |
-+-----+----+-----+
+| chunk | pos  | count |
+|-------|------|-------|
+| she   | PRP  | 968   |
+| She   | PRP  | 426   |
+| her   | PRP$ | 1618  |
+| hers  | PRP  | 4     |
+| hers  | NNS  | 9     |
+| her   | PRP  | 218   |
+| Her   | PRP$ | 55    |
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|his  |PRP$|810  |
-|Him  |PRP |3    |
-|He   |PRP |304  |
-|His  |PRP$|37   |
-|him  |PRP |388  |
-|he   |PRP |795  |
-+-----+----+-----+
+
+| chunk | pos  | count |
+|-------|------|-------|
+| his   | PRP$ | 810   |
+| Him   | PRP  | 3     |
+| He    | PRP  | 304   |
+| His   | PRP$ | 37    |
+| him   | PRP  | 388   |
+| he    | PRP  | 795   |
+
 
 10. Moby Dick by Herman Melville
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|she  |PRP |100  |
-|She  |PRP |14   |
-|her  |PRP$|291  |
-|her  |PRP |27   |
-|Her  |PRP$|3    |
-+-----+----+-----+
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|his  |PRP$|2457 |
-|Him  |PRP |5    |
-|He   |PRP |188  |
-|His  |PRP$|55   |
-|him  |PRP |1005 |
-|he   |PRP |1527 |
-+-----+----+-----+
+| chunk | pos  | count |
+|-------|------|-------|
+| she   | PRP  | 100   |
+| She   | PRP  | 14    |
+| her   | PRP$ | 291   |
+| her   | PRP  | 27    |
+| Her   | PRP$ | 3     |
+
+
+| chunk | pos  | count |
+|-------|------|-------|
+| his   | PRP$ | 2457  |
+| Him   | PRP  | 5     |
+| He    | PRP  | 188   |
+| His   | PRP$ | 55    |
+| him   | PRP  | 1005  |
+| he    | PRP  | 1527  |
+
 
 
 11. Skyrider by B.M Bower 
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|she  |PRP |441  |
-|She  |PRP |184  |
-|her  |PRP$|404  |
-|hers |PRP |3    |
-|hers |NNS |1    |
-|her  |PRP |65   |
-|Her  |PRP$|12   |
-+-----+----+-----+
+| chunk | pos  | count |
+|-------|------|-------|
+| she   | PRP  | 441   |
+| She   | PRP  | 184   |
+| her   | PRP$ | 404   |
+| hers  | PRP  | 3     |
+| hers  | NNS  | 1     |
+| her   | PRP  | 65    |
+| Her   | PRP$ | 12    |
 
-+-----+----+-----+
-|chunk|pos |count|
-+-----+----+-----+
-|his  |PRP$|826  |
-|Him  |PRP |1    |
-|He   |PRP |431  |
-|His  |PRP$|40   |
-|him  |PRP |443  |
-|he   |PRP |1045 |
-+-----+----+-----+
+
+| chunk | pos  | count |
+|-------|------|-------|
+| his   | PRP$ | 826   |
+| Him   | PRP  | 1     |
+| He    | PRP  | 431   |
+| His   | PRP$ | 40    |
+| him   | PRP  | 443   |
+| he    | PRP  | 1045  |
+
 
 
 ## Conclusion
