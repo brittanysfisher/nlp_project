@@ -30,7 +30,7 @@ The dataset includes the novels The Jungle by Upton Sinclair, Frankenstein by Ma
 
 ## Hypothesis
 1. The proportion of masculine subject pronouns will be higher than the proportion of feminine subject pronouns. 
-2. In books written by a female author, the pronoun type usage will be more even.
+2. In books written by a female author, there will be no statistical difference between masculine subject pronouns and feminine subject pronouns.
 
 ## Evaluation
 
@@ -472,7 +472,7 @@ Below are the results from the part-of-speech tagger.
 
 While on face value, the data shows strong evidence that the proportion of feminine subject personal pronouns is greater compared to the proportion of masculine subject personal pronouns. Additionally, the authorial gendered effect on the outcome also favors feminine subject personal pronouns. Yet, due to the inaccuracy of the part-of-speech tagger, the results are inconclusive and more research will be required. To move forward, either the part-of-speech tagger must be improved or tagging will need to be done manually. 
 
-This is a perfect example of three important facets of data science. First, machine learning algorithms should always be questioned and verified. They are useful and could potentially be a crucial tool in data science, yet they are not the end-all-be-all. At this time, Chat-GPT4 might tell you that 9.11 is a larger number than 9.9 (this is real!). Question everything. 
+This is a perfect example of three important facets of data science. First, machine learning algorithms should always be questioned and verified. They are useful and could potentially be a crucial tool in data science, yet they are not the end-all-be-all. At this time, Chat-GPT might tell you that 9.11 is a larger number than 9.9 (this is real!). Question everything. 
 
 This leads to the second, critical thinking about data accuracy is key. Spark did not send an error alerting the incorrect part-of-speech tags because it found “Her” as a subject personal pronoun and “her” as a possessive pronoun to be indistinguishable. Looking at the results and taking the logical leap that 28 uses of feminine possessive pronouns with only 1 use of feminine subject personal pronouns just seemed wrong was the error alert. However, it could have just as easily been a data error when importing the text of the novel which is why checking your results no matter the tool is essential.
 
@@ -483,4 +483,5 @@ Despite the errors of data science, the original question remains. Can the cultu
 ### References
 
 Sedivy, J. (2014). Language in Mind. 
+
 Wood, J. T. (2013). Gendered Lives. 
