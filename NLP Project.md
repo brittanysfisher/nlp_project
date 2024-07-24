@@ -214,16 +214,15 @@ Below are the results from the part-of-speech tagger.
 1. The Jungle by Upton Sinclair
 
 
-+----+----+-----+
-|word|pos |count|
-+----+----+-----+
-|she |PRP |625  |
-|She |PRP |131  |
-|her |PRP$|634  |
-|hers|NNS |2    |
-|her |PRP |103  |
-|Her |PRP$|13   |
-+----+----+-----+
+| word | pos  | count |
+|------|------|-------|
+| she  | PRP  | 625   |
+| She  | PRP  | 131   |
+| her  | PRP$ | 634   |
+| hers | NNS  | 2     |
+| her  | PRP  | 103   |
+| Her  | PRP$ | 13    |
+
 
 +----+----+-----+
 |word|pos |count|
