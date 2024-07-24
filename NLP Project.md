@@ -482,6 +482,6 @@ Despite the errors of data science, the original question remains. Can the cultu
 
 ### References
 
-Sedivy, J. (2014). Language in Mind. 
+Sedivy, J. (2014). *Language in Mind.* Oxford University Press
 
-Wood, J. T. (2013). Gendered Lives. 
+Wood, J. T. (2013). *Gendered Lives.* Cengage Learning.
