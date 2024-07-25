@@ -42,8 +42,10 @@ The results show that not only are the proportions of these groups not equal, bu
 However, there is a crucial caveat. The natural language processing algorithm that identifies part of speech is not accurate. The feminine object personal pronoun (“her”) is the same as the feminine possessive pronoun (“her”). In contrast, the masculine object personal pronoun (“him) is not the same as the masculine possessive pronoun (“his”). The algorithm repeatedly fails to identify “her” as an object personal pronoun when it should. For example, in Down the Slope by James Otis, the algorithm identified 28 out of 29 uses of “her” as a possessive pronoun and only one use object personal pronoun. In actuality, 17 out of 29 uses of “her” are possessive pronouns and 12 out of 29 uses of “her” are object personal pronouns. 
 In a less effecting issue, the algorithm also has issues identifying “Him” with a capital ‘H’ as a title rather than a pronoun. It is common to refer to a higher power as “Him” as found in Little Women four times and Moby Dick at least once. 
 
-Below is the code for the language processing:
+
 The following reference was used to create the Spark NLP pipeline/document assembler/tokenizer/postagger and their comments were very helpful in understanding each of the pieces of the code: https://www.johnsnowlabs.com/supercharge-your-nlp-skills-mastering-dependency-parsing-with-spark-nlp-and-python/
+
+Below is the code for the entire process used in our project:
 
 ```{python}
 !wget http://setup.johnsnowlabs.com/colab.sh -O - | bash
