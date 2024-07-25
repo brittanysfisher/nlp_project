@@ -485,6 +485,8 @@ Despite the errors of data science, the original question remains. Can the cultu
 
 ### References
 
+Cecchini, D. (2023, March 3). *Mastering Dependency Parsing with Spark NLP and Python.* John Snow Labs. https://www.johnsnowlabs.com/supercharge-your-nlp-skills-mastering-dependency-parsing-with-spark-nlp-and-python/
+
 Sedivy, J. (2014). *Language in Mind.* Oxford University Press
 
 Wood, J. T. (2013). *Gendered Lives.* Cengage Learning.
