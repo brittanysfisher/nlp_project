@@ -43,6 +43,7 @@ However, there is a crucial caveat. The natural language processing algorithm th
 In a less effecting issue, the algorithm also has issues identifying “Him” with a capital ‘H’ as a title rather than a pronoun. It is common to refer to a higher power as “Him” as found in Little Women four times and Moby Dick at least once. 
 
 Below is the code for the language processing:
+The following reference was used to create the Spark NLP pipeline and their comments were very helpful in understanding each of the pieces of the code: https://www.johnsnowlabs.com/supercharge-your-nlp-skills-mastering-dependency-parsing-with-spark-nlp-and-python/
 
 ```{python}
 !wget http://setup.johnsnowlabs.com/colab.sh -O - | bash
@@ -64,7 +65,7 @@ spark = SparkSession.builder \
     .appName("SparkNLPExample") \
     .getOrCreate()
 
-# Step 1: Transform raw text to `document` annotation
+# Step 1: Transform raw text to document annotation
 document_assembler = (
       DocumentAssembler()
       .setInputCol("text")
